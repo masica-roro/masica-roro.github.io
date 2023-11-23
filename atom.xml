@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title>one room</title>
+  
+  <subtitle>死宅小屋</subtitle>
+  <link href="https://masica-roro.github.io/atom.xml" rel="self"/>
+  
+  <link href="https://masica-roro.github.io/"/>
+  <updated>2023-11-20T13:52:28.077Z</updated>
+  <id>https://masica-roro.github.io/</id>
+  
+  <author>
+    <name>masica</name>
+    
+  </author>
+  
+  <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>第一次的自言自语</title>
+    <link href="https://masica-roro.github.io/2023/11/20/%E7%AC%AC%E4%B8%80%E6%AC%A1%E7%9A%84%E8%87%AA%E8%A8%80%E8%87%AA%E8%AF%AD/"/>
+    <id>https://masica-roro.github.io/2023/11/20/%E7%AC%AC%E4%B8%80%E6%AC%A1%E7%9A%84%E8%87%AA%E8%A8%80%E8%87%AA%E8%AF%AD/</id>
+    <published>2023-11-20T08:38:48.849Z</published>
+    <updated>2023-11-20T13:52:28.077Z</updated>
+    
+    <content type="html"><![CDATA[<p>嗯，好像没什么可说的</p><p>欢迎光临</p>]]></content>
+    
+    
+      
+      
+    <summary type="html">&lt;p&gt;嗯，好像没什么可说的&lt;/p&gt;
+&lt;p&gt;欢迎光临&lt;/p&gt;
+</summary>
+      
+    
+    
+    
+    
+  </entry>
+  
+</feed>
